@@ -1,3 +1,3 @@
 # fastapi-tutorial
 
-Code written based on Arjan Codes' [FastAPI Tutorial](https://youtu.be/SORiTsvnU28).
+Code written based on ArjanCodes' [FastAPI Tutorial](https://youtu.be/SORiTsvnU28).

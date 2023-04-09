@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "fastapi-tutorial"
+version = "0.1.0"
+description = ""
+authors = ["Arthur Nunes <arthurnunesc@proton.me>"]
+readme = "README.md"
+packages = [{include = "fastapi_tutorial"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.95.0"
+pydantic = "^1.10.7"
+uvicorn = "^0.21.1"
+requests = "^2.28.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
